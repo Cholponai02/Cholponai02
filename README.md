@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cholponai Manapova
 ==========================================================================================================================================
 
-* 🌍  I'm based in Kyrgyzstan and work in CODDY
+* 🌍  I'm based in Italy
 * ✉️  You can contact me at [cholponay112@gmail.com](mailto:cholponay112@gmail.com)
-* 🚀  I'm currently working on [MFC Salym Finance OJSC](http://salymfinance.kg/en/)
+* 🚀  I'm currently studying at [University of Sapienza (https://www.uniroma1.it/en)
 
 
 <hr>
